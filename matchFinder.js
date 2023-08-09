@@ -10,4 +10,4 @@ function matchFinder(string1, string2) {
 console.log(matchFinder("John Doe", "ohn"));
 console.log(matchFinder("JavaScript", "Code"));
 console.log(matchFinder("Peter Parker", "Pen"));
-console.log(matchFinder("Peter Parker", "pet"));
+console.log(matchFinder("Peter Parker", [3]));
