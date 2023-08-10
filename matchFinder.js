@@ -9,5 +9,5 @@ function matchFinder(string1, string2) {
 
 console.log(matchFinder("John Doe", "ohn"));
 console.log(matchFinder("JavaScript", "Code"));
-console.log(matchFinder("Peter Parker", "Pen"));
-console.log(matchFinder("Peter Parker", [3]));
+console.log(matchFinder("Peter Parker", "Pet"));
+console.log(matchFinder(true, [3]));
